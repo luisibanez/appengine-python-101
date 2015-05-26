@@ -1,4 +1,4 @@
-application: appengine-python-101
+application: gae-py-luis-101
 version: tutorial-01
 runtime: python27
 api_version: 1
